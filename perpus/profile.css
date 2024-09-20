@@ -1,0 +1,46 @@
+body{
+    background-image: url("Group\ 8.png");
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    height: 100vh;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.profile-book {
+    display: flex;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.book-details {
+    margin-left: 20px;
+}
+
+.book-details h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.book-details p {
+    margin: 5px 0;
+
+}
+
+.book-details button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.book-details button:hover {
+    background-color: #218838;
+}

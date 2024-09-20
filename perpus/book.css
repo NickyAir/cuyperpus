@@ -1,0 +1,81 @@
+body{
+    /* background-color: rgb(30,83,27); */
+    /* background-color: #3E6E32; */
+    background-image: url("Group\ 8.png");
+    background-size: ;
+}
+
+.search-container {
+    /* display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding: 5px;
+    width: 300px;
+    border: 2 px solid lightgreen; */
+
+    position: relative;
+    width: 300px;
+
+}
+
+.search-container .search-icon {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translate(-50%);
+    color: limegreen;
+}
+
+.search-container input {
+    padding-left: 40px;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    color: #3333;
+
+}
+
+.top-right {
+    /* background-color: green; */
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.image-logo {
+    margin: 20px;
+    padding: 20px;
+}
+
+/* .container {
+    background-color: #346B26;
+    border-color: 2px solid white;
+    
+
+} */
+
+.container {
+    border-radius: 20px;
+    border: 1px solid white;
+    padding: 50px;
+}
+
+.card {
+
+}
+
+.sembarangmu {
+    display: flex;
+    gap: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card-body {
+    text-align: center;
+}
