@@ -1,88 +1,8 @@
 body{
-    /* background-color: rgb(30,83,27); */
-    /* background-color: #3E6E32; */
     background-image: url("Group\ 8.png");
-}
-
-.search-container {
-    width: 300px; /* Sesuaikan lebar sesuai kebutuhan */
-    border: 2px solid #4a5568; /* Warna border */
-    border-radius: 8px; /* Sudut melengkung */
-    padding: 8px; /* Padding dalam */
-    color: #fff; /* Warna teks */
-    background-color: #1a202c; /* Warna latar belakang input */
-
-}
-
-.search-bar::placeholder {
-    color: black;
-}
-
-.search-container .search-icon {
-    position: absolute;
-    top: 50%;
-    left: 15px;
-    transform: translate(-50%);
-    color: limegreen;
-}
-
-.search-container input {
-    padding-left: 40px;
-    border-radius: 20px;
-    background-color: #f0f0f0;
-    color: #3333;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    -ms-border-radius: 20px;
-    -o-border-radius: 20px;
-}
-
-.top-right {
-    /* background-color: green; */
-    /* position: absolute;
-    top: 20px;
-    right: 20px; */
 }
 
 .image-logo {
     margin: 20px;
     padding: 20px;
-}
-
-/* .container {
-    background-color: #346B26;
-    border-color: 2px solid white;
-    
-
-} */
-
-.container {
-    /* border-radius: 50px;
-    border: 5px solid white;
-    padding: 50px;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -ms-border-radius: 50px;
-    -o-border-radius: 50px; */
-}
-/* 
-.card {
-
-} */
-
-.cards {
-    display: flex;
-    gap: 10px;
-}
-
-.card-title {
-    text-align: center;
-}
-
-.card a {
-    text-decoration: none;
-}
-
-.card-body {
-    text-align: center;
 }

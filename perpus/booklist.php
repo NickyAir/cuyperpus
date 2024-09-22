@@ -53,7 +53,7 @@ if (isset($_POST["cari"])) {
       <button type="submit" name="cari">
           <img src="search 1.png" alt="Search Icon">
       </button>
-      <input class="search-bar border rounded-lg p-2" type="text" name="keyword" placeholder="Search" aria-label="Search" autocomplete="off">
+      <input class="search-bar border rounded-lg p-1" type="text" name="keyword" placeholder="Search" aria-label="Search" autocomplete="off">
         </form>
     </div>
     <!-- search bar end -->
