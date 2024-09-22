@@ -1,18 +1,15 @@
 body{
-    background-image: url("Group\ 8.png");
-    display: flex;
-    align-items: center;
-    height: 100vh;
-    justify-content: center;
-    height: 100vh;
-    color: #fff;
+    background-image: url("Group 8.png");
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+}
+/* 
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
 
+
 .profile-book {
-    display: flex;
-    padding: 20px;
     border: 1px solid;
     border-radius: 10px;
 }
@@ -43,4 +40,4 @@ body{
 
 .book-details button:hover {
     background-color: #218838;
-}
+} */
